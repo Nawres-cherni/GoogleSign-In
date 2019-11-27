@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google Sign-In</string>
+    <string name="custom_sign_in_button">custom_sign_in_button</string>
+    <string name="sign_in">sign_in</string>
+    <string name="default_sign_in_button">default_sign_in_button</string>
+</resources>
